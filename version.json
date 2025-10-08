@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "build_number": "1",
+  "update_required": false,
+  "update_message": "Bug fixes and performance improvements",
+  "download_url": "https://play.google.com/store/apps/details?id=your.package.name",
+  "release_date": "2024-01-15",
+  "timestamp": "2024-01-15T10:00:00Z"
+}
